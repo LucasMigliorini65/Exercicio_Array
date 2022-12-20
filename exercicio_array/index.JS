@@ -1,4 +1,4 @@
-/* ////Exercicio 1 
+ ////Exercicio 1 
 
 var numbers = []
 for (var i = 0; i <= 19 ; i++) {
@@ -6,10 +6,10 @@ for (var i = 0; i <= 19 ; i++) {
     numbers.push(newN);
     console.log(numbers);
 }
- document.write("Escrevendo numeros do array " + numbers); */
+ document.write("Escrevendo numeros do array " + numbers); 
 
 
-/* //// Exercicio 2
+ //// Exercicio 2
 var n1 = [];
 var n2 = [];
 
@@ -26,8 +26,9 @@ for (var i = 0; i <= 12; i++) {
 
  alert("Mostrar todos os números: " + n1);
  alert("Mostrar todos os números: " + n2);
-*/
 
+
+// Exercicio 3
 var item1 = "anel de invisibilidade"
 var item2 = " Par de botas Magicas"
 var item3 = "Poção do sono "
